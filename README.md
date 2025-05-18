@@ -72,7 +72,6 @@ cpu_count: python3 btc-hack-offline-main.py cpu_count=1: number of cores to run 
 By default the program runs using python3 btc-hack-offline-main.py verbose=0 substring=8 if nothing is passed. 
 
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/h1pot)
-
+<p><a href="https://www.buymeacoffee.com/h1pot"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="h1pot" /></a></p><br><br>
 
 
