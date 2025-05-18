@@ -70,3 +70,9 @@ substring: python3 btc-hack-offline-main.py substring=8: To make the program mem
 cpu_count: python3 btc-hack-offline-main.py cpu_count=1: number of cores to run concurrently. More cores = more resource usage but faster bruteforcing. Omit this parameter to run with the maximum number of cores
 
 By default the program runs using python3 btc-hack-offline-main.py verbose=0 substring=8 if nothing is passed. 
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/h1pot)
+
+
+
