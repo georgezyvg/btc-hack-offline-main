@@ -15,7 +15,7 @@ from bip_utils import (
 
 import binascii
 
-DATABASE = r'database/2_4_2023/'
+DATABASE = r'database/11_13_2022/'
 
 def bip(num):
 	mnemonic = Bip39MnemonicGenerator(Bip39Languages.ENGLISH).FromWordsNumber(Bip39WordsNum.WORDS_NUM_12)
